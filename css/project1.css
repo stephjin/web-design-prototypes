@@ -1,0 +1,64 @@
+body, h2, h3 {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+  font-weight: 300;
+}
+
+.headercontent {
+  margin: 20% 5% 7% 5%;
+}
+
+.sectioncontent {
+  background-color: #FBFBFB;
+  padding: 7% 5%;
+}
+
+#nav {
+  margin: 5%;
+}
+
+footer {
+  padding: 7% 5%;
+}
+
+h2 {
+  font-size: 38px;
+  padding-bottom: 70px;
+}
+
+h3 {
+  font-size: 28px;
+  line-height: 48px;
+  padding-bottom: 30px;
+}
+
+p, span {
+  line-height: 30px;
+  font-size: 18px;
+}
+
+h4 {
+  font-size: 14px;  
+}
+
+ul {
+  list-style: none;
+}
+
+.no-gutter > [class*='col-'] {
+  padding-right:0px;
+  padding-left:0px;
+}
+
+.heroproject a span {
+  display: none;
+  height: 50%;
+  position: absolute;
+  width: 100%;
+  z-index: 100;
+  color: #fff;
+  padding: 45% 10% 5% 10%;
+}
+
+.dark-background {
+  background-color: rgba(34, 49, 63, 0.95);
+}
