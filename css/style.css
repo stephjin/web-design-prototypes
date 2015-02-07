@@ -1,0 +1,30 @@
+.main {
+  margin: 200px 100px 0px 100px;
+}
+
+img {
+  height: 500px;
+}
+
+p {
+  font-family: 'Gentium Book Basic', serif;
+  font-size: 15px;
+}
+
+a {
+  color: #6C7A89;
+}
+
+a:hover {
+  color: #ECECEC;
+  text-decoration: none;
+  font-style: italic;
+}
+
+#myname {
+  font-family: 'Gentium Book Basic', serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 48px;
+}
+
